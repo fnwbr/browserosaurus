@@ -1370,10 +1370,10 @@
   resolved "https://registry.yarnpkg.com/@browser-logos/opera-gx/-/opera-gx-1.0.7.tgz#d17086c8543e00064b98539a83b83b2afd54ed68"
   integrity sha512-l4+O1hu189oyBDB60rYzZ7jLXjG0gGGBCCZr0BeKIrZ1M1SGUhLclib5e710t6hGKkKMVLx298Iyz89/fhPC0w==
 
-"@browser-logos/opera@^1.1.8":
-  version "1.1.10"
-  resolved "https://registry.yarnpkg.com/@browser-logos/opera/-/opera-1.1.10.tgz#1634fea3ead5f5ee8ea3a08236c4372a35b63830"
-  integrity sha512-bRyflyvp+4MENokiXucrO3HIRjCw+uYKAmdSrr9cr3zUiW58SnlFAwZ0i87+b4QQamBJOF4DwTaBexdB01xbkA==
+"@browser-logos/opera@^1.1.11":
+  version "1.1.11"
+  resolved "https://registry.yarnpkg.com/@browser-logos/opera/-/opera-1.1.11.tgz#9aa438cd43f6e6bd31e03878b037167d51115b4d"
+  integrity sha512-vfQvWhLf7iGuHRe+8l9NjWp1U9DTucoaOlN1Dmwll5UCcjcMzKV1GkxNsCPuojHecqXqtJBHgE0LmXncgheqQA==
 
 "@browser-logos/qutebrowser@^1.0.2":
   version "1.0.4"
